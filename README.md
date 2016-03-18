@@ -17,6 +17,7 @@ Here You can see a screenshot.
          title="HumHub WeChat Module" align="right" />
 </a>
 
+
 ## Installation
 1. Download the module and upload it to your modules directory >yourdomain.com>protected>modules
 2. Rename module directory ```wechat``` (May not be required!)
