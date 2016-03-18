@@ -18,6 +18,7 @@ Here You can see a screenshot.
 </a>
 
 
+
 ## Installation
 1. Download the module and upload it to your modules directory >yourdomain.com>protected>modules
 2. Rename module directory ```wechat``` (May not be required!)
