@@ -26,4 +26,4 @@ __Author website:__ [https://github.com/WebCrew](https://github.com/WebCrew)
 
 __Author:__ WebCrew (Andreas Holzer)
 
-__Special Thanks to:__ petersmithcu (peter Smith)
+__Special Thanks to:__ petersmithcu (Peter Smith) he helped me solv some little bugs I made :)
