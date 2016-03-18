@@ -8,6 +8,13 @@ This module adds a simple chat-widget to the admin backend of Your HumHub instal
 
 To starts the widget visit the link in the admin panel sidebar **WeChat Settings** and then click the generated button.
 
+**Screenshot**
+Here You can see a screenshot.
+<a href="http://palareas.de/">
+    <img src="https://github.com/WebCrew/HumHub-WeChat/blob/master/wechat.jpg?raw=true" alt="WeChat Screenshot"
+         title="HumHub WeChat Module" align="right" />
+</a>
+
 ## Installation
 1. Download the module and upload it to your modules directory >yourdomain.com>protected>modules
 2. Rename module directory ```wechat``` (May not be required!)
