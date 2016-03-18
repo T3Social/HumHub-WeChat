@@ -22,6 +22,8 @@ In `Administration -> WeChat` you can start the chat widget
 
 __Module website:__ <https://github.com/WebCrew/HumHub-WeChat>  
 
-__Author website:__ [https://github.com/WebCrew](https://github.com/WebCrew)    
+__Author website:__ [https://github.com/WebCrew](https://github.com/WebCrew)  
+
 __Author:__ WebCrew (Andreas Holzer)
-__Special Thanks to:__petersmithcu (peter Smith)
+
+__Special Thanks to:__ petersmithcu (peter Smith)
