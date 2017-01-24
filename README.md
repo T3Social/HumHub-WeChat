@@ -1,6 +1,6 @@
 # [HumHub](https://github.com/humhub/humhub) WeChat
 
-This module is for HumHub Version 0.20+ (Yii 2) and cannot be used with HumHub Version 0.1x (Yii 1.1)
+This module is working with latest HumHub Version. 
 
 ## Description
 
