@@ -3,8 +3,8 @@
     "name": "WeChat",
     "description": "Adds a Chat Widget to Sidebar.",
     "keywords": ["we", "chat"],
-    "version": "0.1.0",
+    "version": "0.0.2",
     "humhub": {
-        "minVersion": "0.20"
+    "minVersion": "1.0"
     }
 }
