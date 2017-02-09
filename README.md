@@ -2,6 +2,15 @@
 
 This module is working with latest HumHub Version. 
 
+
+***
+
+**NOTE: I will no longer make use of HumHub and I stop updating my modules and themes for HumHub. It is up to you, you are welcome to update the modules and themes in the future.**
+
+***
+
+
+
 ## Description
 
 This module adds a simple chat-widget to the admin backend of Your HumHub installation.  You can use it to share infos with Your team mates or just to chitchat.
