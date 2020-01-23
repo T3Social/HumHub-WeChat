@@ -46,4 +46,4 @@ __Author website:__ [https://github.com/WebCrew](https://github.com/WebCrew)
 
 __Author:__ WebCrew (Andreas Holzer)
 
-__Special Thanks to:__ [https://github.com/petersmithca](https://github.com/petersmithca) he helped me solv some little bugs I made :)
+__Special Thanks to:__ [https://togetherjs.com](https://togetherjs.com) for that awesome chat script :)
