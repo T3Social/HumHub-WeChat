@@ -5,7 +5,7 @@ This module is working with latest HumHub Version.
 ***
 
 **NOTE: I thank @Felli (Sarah Tsumayoi) for her contibution on the project. Sadly Sarah passed away around 2020 at a very young age she was only 23 years old - may God protect her. I hope you are doing well wherever you are and I will never forget you. My deepest condolences and sympathy to your family in Japan. 
-***
+
 ![image](https://user-images.githubusercontent.com/12986067/170785067-c531da77-ce2b-49df-813b-22a919ed4542.png)
 
 ***
