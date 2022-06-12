@@ -2,7 +2,7 @@
 
 This module is working with latest HumHub Version. 
 
-github: WebCrew 
+
 
 ***
 
