@@ -1,0 +1,102 @@
+{
+  "CSS": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "CSScomb"
+    ],
+    "indent_style": "tab"
+  },
+  "HTML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ]
+  },
+  "JSON": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ]
+  },
+  "Java": {
+    "beautifiers": [
+      "Pretty Diff"
+    ]
+  },
+  "JavaScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify",
+      "ESLint"
+    ]
+  },
+  "Less": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff"
+    ],
+    "pragma_insert": true
+  },
+  "Markdown": {
+    "beautifiers": [
+      "Prettier"
+    ],
+    "wrap_line_length": 0
+  },
+  "PHP": {
+    "beautifiers": [
+      "PHP-CS-Fixer",
+      "PHP_CodeSniffer"
+    ]
+  },
+  "SCSS": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "CSScomb"
+    ],
+    "indent_style": "space"
+  },
+  "SQL": {
+    "beautifiers": [
+      "sqlformat"
+    ]
+  },
+  "SVG": {
+    "beautifiers": [
+      "Pretty Diff"
+    ]
+  },
+  "Sass": {
+    "beautifiers": [
+      "CSScomb"
+    ]
+  },
+  "Twig": {
+    "beautifiers": [
+      "Pretty Diff"
+    ]
+  },
+  "TypeScript": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "TSLint"
+    ]
+  },
+  "XML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ]
+  },
+  "Vue": {
+    "beautifiers": [
+      "Prettier"
+    ]
+  }
+}
